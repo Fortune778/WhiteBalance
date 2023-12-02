@@ -88,6 +88,6 @@ def main(img):
 
 
 if __name__ == '__main__':
-    # Change the picture what you want
+    # Change the picture which you want
     img = cv2.imread("human1.jpg")
     main(img)
